@@ -1,4 +1,4 @@
-# pierre_feuille_ciseau
+# pierre_feuille_ciseaux
 
 Pour jouer:
 
