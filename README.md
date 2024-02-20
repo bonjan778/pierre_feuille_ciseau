@@ -12,4 +12,4 @@ Pour jouer:
 ![Screenshot_2024-02-20_09_18_56](https://github.com/bonjan778/pierre_feuille_ciseaux/assets/142881984/35508686-9d56-4dad-85ad-a5d87c2793ba)
 ![Screenshot_2024-02-20_09_19_04](https://github.com/bonjan778/pierre_feuille_ciseaux/assets/142881984/89c02fba-0f8d-4e80-97c2-cbd4bf40bd25)
 ![Screenshot_2024-02-20_09_19_18](https://github.com/bonjan778/pierre_feuille_ciseaux/assets/142881984/54c7f150-3b3a-424e-b69c-3436ab19c37a)
-![Uploading Screenshot_2024-02-20_09_19_40.png…]()
+![Screenshot_2024-02-20_09_19_40](https://github.com/bonjan778/pierre_feuille_ciseaux/assets/142881984/78634ed0-8a36-42b4-85b0-e7694031581c)
